@@ -1,0 +1,204 @@
+<html>
+<head>
+ <title>Fairtrade</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+ <!-- Start of CSS styling -->
+ <style type="text/css">
+html {
+	background-color:#0F9;
+}
+#banner {
+	background-color:#39F;
+	border:3px groove #0FF;
+	width:100%;
+	height:20%;
+}
+.banner {
+	font-family:Georgia;
+	color:White;
+	font-size:3em;
+}
+#sidebar {
+	width:25%;
+	height:33%;
+	border:3px groove #0FF;
+	background-color:#39F;
+	float:right;
+	position:fixed; top:auto; right:0.000000000000001%;
+	vertical-align:sub;
+	
+}
+.contents {
+	color:white;
+	font-family:Verdana;
+	font-size:1.25em;
+}
+.list {
+	position:fixed;
+	padding:0;
+	margin:0;
+	display:inline;
+}
+.list2 {
+	padding:0;
+	margin:0;
+	display:inline;
+}
+a {
+	color:orange;
+	font-family:Georgia;
+	list-style:none;
+	font-size:1.5em;
+	text-decoration:none;
+}
+li {
+	list-style:none;
+}
+#top {
+	font-size:1.5em;
+}
+a:hover {
+	font-size:1.55em;
+}
+.divs {
+	width:75%;
+	height:auto;
+	background-color:#0F6;
+	border:3px groove #0FF;
+	float:left;
+	color:#FFF;
+}
+.divs ul li {
+	font-size:1.75em;
+	color:#999;
+	list-style:none;
+	color:#FFF;
+}
+
+ </style>
+<!-- End of CSS styling -->
+<body>
+	<div id="banner">
+    	<marquee scrollDelay="1" direction="left" behavior="alternate">
+		<font  class="banner" id="headerTitle">Fairtrade</font>
+	  </marquee>
+	</center>
+    </div>
+    <div id="sidebar">
+     <ul>
+      <li class="list"><a href="#facts">Facts about FairTrade</a></li>
+
+     </ul>
+     <p>&nbsp;</p>
+     <ul>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"></li>
+       <li class="list"><a href="#survey">Our survey's findings</a></li>
+      </ul>
+     <p>&nbsp;</p>
+     <ul>
+       
+       <li class="list"><a href="#event">Upcoming event</a></li>
+      </ul>
+     <p>&nbsp;</p>
+     <ul>
+       
+       <li class="list"><a href="#information">More Information</a></li></ul>
+</div>
+<div id="Me" class="divs">
+  <h3 style="color:white;font-family:Verdana;font-size:2em;">Main page</h3>
+  <ul>
+    <li>Welcome to the webpage I have created. My name is Saqib Hussain. I am 15 years old. I am in year 10. I am doing EDEXCEL DiDA project. I have created this webpage to promote my choosen fairtrade event.</li>
+    <li>
+      <ul>
+        <li><img src="../images/fairtrade School Banner croped version.jpg" width="663" height="398"></li>
+      </ul>
+    </li>
+    <li></li>
+  </ul>
+  </div>
+    <div id="facts" class="divs">
+     <h3 style="color:white;font-family:Verdana;font-size:2em;">Facts about fairtrade</h3>
+     <ul><li>
+       <p><strong><u>Here&rsquo;s a round-up of some fair trade facts about the fair  trade market in the UK.</u></strong></p>
+       <p>In 2010, the Fairtrade market in the UK was worth £1.17bn, a  40% increase on 2009. There are more than 4,500 Fairtrade certified products  carrying the Fairtrade Mark. More than 7.5 million people (farmers, workers,  families and their communities) across more than 60 developing countries  benefit from the international Fairtrade system. There are 560 producer groups  selling to the UK.</p>
+       <p><strong><u>Fairtrade Mark</u></strong></p>
+       <p>Traidcraft was one of the organizations that helped set up  the Fairtrade Foundation in 1992. The&nbsp;Fairtrade Foundation&nbsp;awards the  Fairtrade Mark to products which meet international fair trade standards, set  by&nbsp;FLO (Fairtrade Labelling Organizations International). Nearly  three-quarters (74%) of the UK population recognize the Fairtrade Mark.</p>
+       <p><strong><u>Fairtrade status</u></strong></p>
+       <p>Number of Fairtrade schools:&nbsp;480</p>
+       <p>There are also a further 4000 schools working towards  Fairtrade status. Traidcraft&rsquo;s schools website has more information and  resources on becoming a Fairtrade school.&nbsp;</p>
+       <p>Number of Fairtrade churches:&nbsp;6555</p>
+       <p>Number of Fairtrade synagogues:&nbsp;46</p>
+       <p>Number of Fairtrade mosques:&nbsp;2</p>
+       <p>Number of Fairtrade towns, cities and villages:&nbsp;500</p>
+       <p>Number of Fairtrade universities and colleges:&nbsp;120</p>
+       <p><strong><u>Fair trade or Fairtrade?</u></strong></p>
+       <p>The Fairtrade Mark is awarded to products that meet  internationally agreed standards. However, there are many products for which a  standard has yet to be agreed. These are typically crafts, paper and textiles.  For many years, Traidcraft has sourced these types of products and ensured they  reach the same standards as those applied to Fairtrade certified products. To  distinguish between these categories of products we use Fairtrade (one word,  capital &lsquo;F&rsquo;) in relation to those that carry the Fairtrade Mark. We use fair  trade (two words, no capitals) to describe the extensive range of products for  which the Mark is not yet available.</p>
+     </li>
+      <li></li>
+      <li></li>
+      <li class="list2" id="top"><a href="#banner">Back to the top</a></li>
+    </ul>
+</div> 
+    <div id="survey" class="divs">
+   	  <h3 style="color:white;font-family:Verdana;font-size:2em;">Our Survey's results</h3>
+   	  <ul>
+   	    <li>
+   	      <p>From my survey I have learnt that most people are familiar with fair  trade products, most of the people do usually buy fair trade products. <br>
+   	        Also half of the people seem to feel that fair trade is fairly  important. In my survey I have also learnt that 11 of the 16 people like to buy  branded items. </p>
+In my survey there  were 6 people of the range age of 0-18 and there were 6 people of the range age  of 19-25. This shows that the majority of the people who took part in my survey  was young. In my survey I asked a question, asking &ldquo;What is the main reason people don&rsquo;t buy each  type of fair trade product?&rdquo; I asked this questions for clothing/accessories,  Bath/cosmetics, sports equipment and food and drink. The main reason people  don&rsquo;t buy these items are because they are too expensive. Clothing/accessories  had the highest result, 10. Clothing/accessories and sports equipment are not  readily available. Clothing/accessories had the highest result again which was  9, followed by sports equipment which was 4. Also we asked &ldquo;If we hold an event to  promote one type of fair trade product, which type would you be most interested  in?&rdquo;  most of them said they would like an event to promote fair trade food/drink  products.</li>
+   	  </ul>
+   	  <ul>
+        <li class="list2" id="top"><a href="#banner">Back to the top</a></li>
+      </ul>
+</div>
+    <div id="event" class="divs">
+    <h3 style="color:white;font-family:Verdana;font-size:2em;">Upcoming event</h3>
+      <ul>
+        <li></li>
+        <li>The  event will promote fair trade food/drink products, by having several tuck shops  selling sweets, drinks and snacks. The tuck shop will be in Grangetown Primary  School, Fitzalan High School, Cardiff and Vale College and Cardiff Metropolitan University.  I chose these places because in these place you will certainly find young  people. There  will be several tuck shops around the sites. The tuck shop prices will be  fairly cheap, it will be cheap enough for pupils/students to buy the products.  The tuck shop will have leaflets to explain the purpose of fair trade and why  fair trade has been created.</li>
+        <li>
+          <p>I  chose the tuck shop event because the majority of people who participated in  the survey were young people (from the ages of 6 to 25+). So I chose young  people to be my target audience because young people love sweets, drinks and  snacks plus the event will be in their sites. This means students/pupils don’t  have to go off site, which would save a lot of time for them, this is same for  the teachers. It will raise awareness of fair trade products. </p>
+        </li>
+        <li></li>
+        <li></li>
+      </ul>
+      <ul>
+        <li></li>
+        <li class="list2" id="top"><a href="#banner">Back to the top</a></li>
+      </ul>
+</div>
+    <div id="information" class="divs">
+    <h3 style="color:white;font-family:Verdana;font-size:2em;">More Information</h3>
+	  <ul>
+	    <li>For more infortmation please visit the <a href="information point.pdf" target="_parent">information point</a></li>
+	  </ul>
+	  <ul>
+	    <li class="list2" id="top"><a href="#banner">Back to the top</a></li>
+      </ul>
+    </div>	
+</body>
+</html>
